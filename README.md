@@ -9,8 +9,8 @@
     <link rel="canonical" href="http://ftp.randyzwitch.com/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Grahaspin: Tempat Terbaik untuk Sensasi Berjudi yang Tak Terlupakan
  &ndash; My Store</title>
+
     <link rel="amphtml" href="https://pub-8ec12f0e2f3a464781dab896e0a8daac.r2.dev/grahaspin5%2Findex.html">
-    
       <meta name="description" content="Selamat datang di Grahaspin, destinasi utama bagi para pecinta judi online yang mencari pengalaman berjudi yang seru dan menguntungkan. Di sini, Anda akan menemukan segala yang Anda cari: koleksi permainan yang menarik, bonus yang menggiurkan, dan layanan pelanggan yang siap siaga. Grahaspin menawarkan koleksi permaina">
     
 
@@ -50,12 +50,12 @@ Shopify.routes.root = "/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script id="shop-js-features" type="application/json">{"compact":""}</script>
-<script id="__st">var __st={"a":62944018525,"offset":25200,"reqid":"c2b4c918-19e3-4f1d-b1b6-7e44e69193d6-1712693158","pageurl":"grahaspin.myshopify.com\/products\/grahaspin-tempat-terbaik-untuk-sensasi-berjudi-yang-tak-terlupakan","u":"1275b69da078","p":"product","rtyp":"product","rid":7376585916509};</script>
+<script id="__st">var __st={"a":62944018525,"offset":25200,"reqid":"22ae1b4f-0f05-4556-859c-b7db59357977-1712696114","pageurl":"grahaspin.myshopify.com\/products\/grahaspin-tempat-terbaik-untuk-sensasi-berjudi-yang-tak-terlupakan","u":"79b0917b40ec","p":"product","rtyp":"product","rid":7376585916509};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
 <script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//grahaspin.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
 <script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//grahaspin.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
-<script id="sections-script" data-sections="header" defer="defer" src="//grahaspin.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?4"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//grahaspin.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?5"></script>
 <style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
   visibility: hidden;
 }
@@ -233,7 +233,7 @@ Shopify.routes.root = "/";</script>
         .color-scheme-1 {
           --color-background: 255,255,255;
         
-          --gradient-background: #FFFFFF;
+          --gradient-background: #ffffff;
         
 
         
@@ -256,7 +256,7 @@ Shopify.routes.root = "/";</script>
         .color-scheme-2 {
           --color-background: 243,243,243;
         
-          --gradient-background: #F3F3F3;
+          --gradient-background: #f3f3f3;
         
 
         
@@ -325,7 +325,7 @@ Shopify.routes.root = "/";</script>
         .color-scheme-5 {
           --color-background: 51,79,180;
         
-          --gradient-background: #334FB4;
+          --gradient-background: #334fb4;
         
 
         
@@ -875,11 +875,7 @@ for (var attr in meta) {
   header-drawer {
     justify-self: start;
     margin-left: -1.2rem;
-  }@media screen and (min-width: 990px) {
-      header-drawer {
-        display: none;
-      }
-    }.menu-drawer-container {
+  }.menu-drawer-container {
     display: flex;
   }
 
@@ -954,104 +950,99 @@ for (var attr in meta) {
   <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
     <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
   </symbol>
-</svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-scheme-1 gradient header-wrapper--border-bottom"><header class="header header--middle-left header--mobile-center page-width header--has-menu">
+</svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-scheme-1 gradient header-wrapper--border-bottom"><header class="header header--middle-left header--mobile-center page-width drawer-menu">
 
-<header-drawer data-breakpoint="tablet">
-  <details id="Details-menu-drawer-container" class="menu-drawer-container">
+<details-modal class="header__search">
+  <details>
     <summary
-      class="header__icon header__icon--menu header__icon--summary link focus-inset"
-      aria-label="Menu"
+      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
+      aria-haspopup="dialog"
+      aria-label="Search"
     >
       <span>
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-hamburger"
-  fill="none"
-  viewBox="0 0 18 16"
->
-  <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
-</svg>
-
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
-
+        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+          <use href="#icon-search">
+        </svg>
+        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+          <use href="#icon-close">
+        </svg>
       </span>
     </summary>
-    <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-scheme-1">
-      <div class="menu-drawer__inner-container">
-        <div class="menu-drawer__navigation-container">
-          <nav class="menu-drawer__navigation">
-            <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
-                      id="HeaderDrawer-home"
-                      href="/"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Home
-                    </a></li><li><a
-                      id="HeaderDrawer-catalog"
-                      href="/collections/all"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Catalog
-                    </a></li><li><a
-                      id="HeaderDrawer-contact"
-                      href="/pages/contact"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Contact
-                    </a></li></ul>
-          </nav>
-          <div class="menu-drawer__utility-links"><div class="menu-drawer__localization header-localization">
-</div><ul class="list list-social list-unstyled" role="list"></ul>
-          </div>
-        </div>
+    <div
+      class="search-modal modal__content gradient"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Search"
+    >
+      <div class="modal-overlay"></div>
+      <div
+        class="search-modal__content search-modal__content-bottom"
+        tabindex="-1"
+      ><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input
+              class="search__input field__input"
+              id="Search-In-Modal-1"
+              type="search"
+              name="q"
+              value=""
+              placeholder="Search"role="combobox"
+                aria-expanded="false"
+                aria-owns="predictive-search-results"
+                aria-controls="predictive-search-results"
+                aria-haspopup="listbox"
+                aria-autocomplete="list"
+                autocorrect="off"
+                autocomplete="off"
+                autocapitalize="off"
+                spellcheck="false">
+            <label class="field__label" for="Search-In-Modal-1">Search</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button
+              type="reset"
+              class="reset__button field__button hidden"
+              aria-label="Clear search term"
+            >
+              <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                <use xlink:href="#icon-reset">
+              </svg>
+            </button>
+            <button class="search__button field__button" aria-label="Search">
+              <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                <use href="#icon-search">
+              </svg>
+            </button>
+          </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+
+<link href="//grahaspin.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481712649887" rel="stylesheet" type="text/css" media="all" />
+
+<div class="predictive-search__loading-state">
+  <svg
+    aria-hidden="true"
+    focusable="false"
+    class="spinner"
+    viewBox="0 0 66 66"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+  </svg>
+</div>
+</div>
+
+            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button
+          type="button"
+          class="search-modal__close-button modal__close-button link link--text focus-inset"
+          aria-label="Close"
+        >
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </svg>
+        </button>
       </div>
     </div>
   </details>
-</header-drawer>
+</details-modal>
 <a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">My Store</span></a>
-
-<nav class="header__inline-menu">
-  <ul class="list-menu list-menu--inline" role="list"><li><a
-            id="HeaderMenu-home"
-            href="/"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Home</span>
-          </a></li><li><a
-            id="HeaderMenu-catalog"
-            href="/collections/all"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Catalog</span>
-          </a></li><li><a
-            id="HeaderMenu-contact"
-            href="/pages/contact"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Contact</span>
-          </a></li></ul>
-</nav>
-
 <div class="header__icons header__icons--localization header-localization">
       <div class="desktop-localization-wrapper">
 </div>
@@ -1163,63 +1154,6 @@ for (var attr in meta) {
   </header>
 </sticky-header>
 
-<cart-notification>
-  <div class="cart-notification-wrapper page-width">
-    <div
-      id="cart-notification"
-      class="cart-notification focus-inset color-scheme-1 gradient"
-      aria-modal="true"
-      aria-label="Item added to your cart"
-      role="dialog"
-      tabindex="-1"
-    >
-      <div class="cart-notification__header">
-        <h2 class="cart-notification__heading caption-large text-body"><svg
-  class="icon icon-checkmark"
-  aria-hidden="true"
-  focusable="false"
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 12 9"
-  fill="none"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/>
-</svg>
-Item added to your cart
-        </h2>
-        <button
-          type="button"
-          class="cart-notification__close modal__close-button link link--text focus-inset"
-          aria-label="Close"
-        >
-          <svg class="icon icon-close" aria-hidden="true" focusable="false">
-            <use href="#icon-close">
-          </svg>
-        </button>
-      </div>
-      <div id="cart-notification-product" class="cart-notification-product"></div>
-      <div class="cart-notification__links">
-        <a
-          href="/cart"
-          id="cart-notification-button"
-          class="button button--secondary button--full-width"
-        >View cart</a>
-        <form action="/cart" method="post" id="cart-notification-form">
-          <button class="button button--primary button--full-width" name="checkout">
-            Check out
-          </button>
-        </form>
-        <button type="button" class="link button-label">Continue shopping</button>
-      </div>
-    </div>
-  </div>
-</cart-notification>
-<style data-shopify>
-  .cart-notification {
-    display: none;
-  }
-</style>
-
-
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -1240,6 +1174,26 @@ Item added to your cart
     "url": "https:\/\/grahaspin.myshopify.com"
   }
 </script>
+</div><div id="shopify-section-sections--16437230239837__announcement_bar_VmCPXn" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//grahaspin.myshopify.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051712649887" rel="stylesheet" type="text/css" media="all" />
+<link href="//grahaspin.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681712649887" rel="stylesheet" type="text/css" media="all" />
+
+
+<div
+  class="utility-bar color-scheme-5 gradient utility-bar--bottom-border"
+  
+>
+  <div class="page-width utility-bar__grid"><div
+        class="announcement-bar"
+        role="region"
+        aria-label="Announcement"
+        
+      ><p class="announcement-bar__message h5">
+            <span>Welcome to our store</span></p></div><div class="localization-wrapper">
+</div>
+  </div>
+</div>
+
+
 </div>
 <!-- END sections: header-group -->
 
@@ -1270,7 +1224,7 @@ Item added to your cart
   <script src="//grahaspin.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181712649887" defer="defer"></script>
 
   <div class="page-width">
-    <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
+    <div class="product product--small product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
       <div class="grid__item product__media-wrapper">
         
 <media-gallery
@@ -1300,7 +1254,7 @@ Item added to your cart
   style="--ratio: 1.0; --preview-ratio: 1.0;"
 >
   <noscript><div class="product__media media">
-        <img src="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946" alt="" srcset="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=246 246w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=493 493w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=600 600w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=713 713w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=823 823w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=990 990w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1100 1100w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1206 1206w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1346 1346w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1426 1426w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1646 1646w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946" alt="" srcset="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=246 246w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=493 493w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=600 600w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=713 713w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=823 823w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=990 990w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1100 1100w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1206 1206w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1346 1346w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1426 1426w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1646 1646w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
   <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--16437229912157__main">
@@ -1334,7 +1288,7 @@ Item added to your cart
   </svg>
 </div>
 <div class="product__media media media--transparent">
-      <img src="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946" alt="" srcset="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=246 246w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=493 493w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=600 600w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=713 713w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=823 823w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=990 990w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1100 1100w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1206 1206w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1346 1346w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1426 1426w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1646 1646w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+      <img src="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946" alt="" srcset="//grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=246 246w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=493 493w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=600 600w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=713 713w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=823 823w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=990 990w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1100 1100w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1206 1206w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1346 1346w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1426 1426w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1646 1646w, //grahaspin.myshopify.com/cdn/shop/files/bannergrahaspin2.png?v=1712692665&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
     </div>
     <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="26865388421213">
       <span class="visually-hidden">
@@ -1381,10 +1335,7 @@ Item added to your cart
           data-section="template--16437229912157__main"
           data-url="/products/grahaspin-tempat-terbaik-untuk-sensasi-berjudi-yang-tak-terlupakan"
           class="product__info-container product__column-sticky"
-        ><p
-                  class="product__text inline-richtext caption-with-letter-spacing"
-                  
-                >My Store</p><div class="product__title" >
+        ><div class="product__title" >
                   <h1>Grahaspin: Tempat Terbaik untuk Sensasi Berjudi yang Tak Terlupakan</h1>
                   <a href="/products/grahaspin-tempat-terbaik-untuk-sensasi-berjudi-yang-tak-terlupakan" class="product__title">
                     <h2 class="h1">
