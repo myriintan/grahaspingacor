@@ -6,13 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="http://ftp.randyzwitch.com/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-    <link rel="amphtml" href="https://pub-8ec12f0e2f3a464781dab896e0a8daac.r2.dev/grahaspin5%2Findex.html">
-<title>
+    <link rel="canonical" href="http://ftp.randyzwitch.com/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Grahaspin: Tempat Terbaik untuk Sensasi Berjudi yang Tak Terlupakan
- &ndash; My Store
-</title>
-
+ &ndash; My Store</title>
+    <link rel="amphtml" href="https://pub-8ec12f0e2f3a464781dab896e0a8daac.r2.dev/grahaspin5%2Findex.html">
     
       <meta name="description" content="Selamat datang di Grahaspin, destinasi utama bagi para pecinta judi online yang mencari pengalaman berjudi yang seru dan menguntungkan. Di sini, Anda akan menemukan segala yang Anda cari: koleksi permainan yang menarik, bonus yang menggiurkan, dan layanan pelanggan yang siap siaga. Grahaspin menawarkan koleksi permaina">
     
